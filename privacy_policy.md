@@ -18,9 +18,8 @@ For the purposes of this Privacy Policy:
 
 - __Account__ means a unique account created for You to access our Service or parts of our Service.
 - __Affiliate__ means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-- __Application__ refers to Animal Lucky Slot, the software program provided by the Company.
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Animal Lucky Slot.
-- __Country__ refers to:  Malaysia
+- __Application__ refers to Beastly Bonanza Slots, the software program provided by the Company.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Beastly Bonanza Slots.
 - __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - __Personal Data__ is any information that relates to an identified or identifiable individual.
 - __Service__ refers to the Application.
